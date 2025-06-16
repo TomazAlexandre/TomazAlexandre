@@ -2,9 +2,9 @@
 
 - 👨‍💻 Software Engineer, Data Scientist, Agile Master
 - 🐍 Foco em Python, Machine Learning e metodologias ágeis (Jira Software)
-- 🚀 Tenho 3 projetos: **audacy**, **seeforwall** e **july**
+- 🚀 1º Lugar no NASA Space Apps Challenge - Ribeirão Preto | 1º Lugar no HackRibeirão 2019 | 2 º TCS Hackathon | 
 - 🎮 Sou apaixonado por gaming e também atuo como DJ
-- 📫 Contate-me no LinkedIn: [linkedin.com/tomaz-alexandre-macedo](https://linkedin.com/tomaz-alexandre-macedo)
+- 📫 Contate-me no LinkedIn: [linkedin.com/tomazalexandre]((https://br.linkedin.com/in/tomazalexandre))
 
 <div>
 <a href="https://github.com/TomazAlexandre">
